@@ -1,0 +1,1 @@
+Se puede un compilador de Python que pueda importar librerias ejemplo uno web https://www.onlinegdb.com/online_python_compiler
